@@ -27,6 +27,8 @@ In this project, I aimed to explore and answer the following questions:
 5. Which Canadian cities have the highest-paying jobs?
 6. What are the highest-paying job titles?
 
+You can access the dataset [here](https://www.kaggle.com/datasets/moun12345/canadian-salary-data-from-stack-overflow-survey).
+
 ## Data Analysis
 
 ### PostgreSQL
